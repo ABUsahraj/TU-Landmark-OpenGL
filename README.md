@@ -41,17 +41,18 @@ Make sure the file `freeglut.dll` is placed inside the Debug folder before runni
 
 ## Project Structure
 CIT/
-├── CIT.sln
-├── CIT.vcxproj
-├── main.cpp
-├── freeglut.dll
-├── x64/
-│    └── Debug/
-│         ├── CIT.exe
-│         ├── CIT.pdb
-│         └── freeglut.dll
-└── CIT/
-└── x64/Debug/...
+ ├── CIT.sln
+ ├── CIT.vcxproj
+ ├── main.cpp
+ ├── freeglut.dll
+ ├── x64/
+ │    └── Debug/
+ │         ├── CIT.exe
+ │         ├── CIT.pdb
+ │         └── freeglut.dll
+ └── CIT/
+      └── x64/Debug/...
+
 
 
 ---
