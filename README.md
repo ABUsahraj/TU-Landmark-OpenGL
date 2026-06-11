@@ -39,6 +39,24 @@ Make sure the file `freeglut.dll` is placed inside the Debug folder before runni
 
 ---
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Project Structure
 CIT/
  ├── CIT.sln
@@ -52,6 +70,40 @@ CIT/
  │         └── freeglut.dll
  └── CIT/
       └── x64/Debug/...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
